@@ -1,7 +1,9 @@
 # 10km Open Water Swim Training Plan
 
 **Goal:** 10km race in July
+
 **Duration:** 22 weeks
+
 **Current Level:** Intermediate/Advanced (4.5km longest swim, pace ~1:45-2:00/100m)
 
 ---
